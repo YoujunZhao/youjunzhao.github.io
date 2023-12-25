@@ -3,7 +3,7 @@
 <h4 style="margin:0 10px 0;">Teaching</h4>
 
 <ul style="margin:0 0 5px;">
-  <li>Teaching Assistant<a href="https://www.cityu.edu.hk/catalogue/ug/current/course/CS4188.htm"><autocolor>Virtual Reality Technologies and Applications(CS4188),Semester A 2023/24</autocolor></a></li>
+  <li>Teaching Assistant,<a href="https://www.cityu.edu.hk/catalogue/ug/current/course/CS4188.htm"><autocolor>Virtual Reality Technologies and Applications(CS4188),Semester A 2023/24</autocolor></a></li>
 </ul>
 
 <!--<h4 style="margin:0 10px 0;">Journal Reviewers</h4>
