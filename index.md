@@ -14,10 +14,7 @@ I'm a Ph.D. student from [City University of Hong Kong](https://www.cityu.edu.hk
 ## News
 
 - **[Dec. 2023]** One paper accepted to TIP
-<li> <a href="javascript:toggle_vis('newsmore')">Show more</a> </li>
-<div id="newsmore" style="display:none">
-<li><strong>[JUN. 2023]</strong> I received my bachlor degree from <a href="https://www.sysu.edu.cn/">Sun Yat-sen University</a>.</li>
-</div>
+
 
 {% include_relative _includes/publications.md %}
 
