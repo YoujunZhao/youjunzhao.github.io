@@ -9,7 +9,7 @@ I'm a Ph.D. student from [City University of Hong Kong](https://www.cityu.edu.hk
 
 ## News
 
-- **[Jan. 2024]** One paper accepted to TIP
+- **[Jan. 2024]** One paper is accepted to TIP.
 
 
 {% include_relative _includes/publications.md %}
