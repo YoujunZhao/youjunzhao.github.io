@@ -6,9 +6,9 @@ email: youjun.zhao (at) my.cityu.edu.hk
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
-keywords: minimal light
-description: The Minimal Light is a simple and elegant jekyll theme for academic personal homepage.
-canonical: https://minimal-light-theme.yliu.me/
+keywords: Youjun Zhao
+description: Youjun Zhao's homepage
+canonical: https://youjunzhao.github.io/
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
@@ -26,7 +26,7 @@ favicon_dark: ./assets/img/favicon-dark.png
 
 # Footnote
 # You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."
-enable_footnote: true
+enable_footnote: false
 
 # Auto Dark Mode
 # You may use the option to disable the automatic dark theme
