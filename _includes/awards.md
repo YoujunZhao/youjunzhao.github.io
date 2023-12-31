@@ -1,4 +1,4 @@
-## Hornors and Awards
+## Hornors & Awards
 
 <ul style="margin:0 0 5px;">
   <li>Postgraduate Studentship, City University of Hong Kong, 2023 - 2027</autocolor></a></li>
