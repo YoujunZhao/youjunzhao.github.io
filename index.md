@@ -17,4 +17,6 @@ I'm a Ph.D. student from [City University of Hong Kong](https://www.cityu.edu.hk
 
 {% include_relative _includes/services.md %}
 
+{% include_relative _includes/awards.md %}
+
 {% include_relative _includes/posts.md %}
