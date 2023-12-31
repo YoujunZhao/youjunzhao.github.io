@@ -16,8 +16,8 @@ canonical: https://youjunzhao.github.io/
 google_scholar: https://scholar.google.com/citations?user=EriWPTEAAAAJ&hl=en&oi=ao
 cv_link: 
 github_link: https://github.com/YoujunZhao/
-linkedin: https://www.linkedin.com/
-twitter: https://twitter.com/
+linkedin:
+twitter:
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
