@@ -27,6 +27,15 @@
       {% if link.code %} 
       <a href="{{ link.code }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
       {% endif %}
+      {% if link.data %} 
+      <a href="{{ link.data }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Data</a>
+      {% endif %}
+      {% if link.zhihu %} 
+      <a href="{{ link.zhihu }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Zhihu(Chinese)</a>
+      {% endif %}
+      {% if link.project %} 
+      <a href="{{ link.project }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project</a>
+      {% endif %}
       {% if link.page %} 
       <a href="{{ link.page }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
       {% endif %}
