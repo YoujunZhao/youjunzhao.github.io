@@ -8,8 +8,8 @@ I'm a Ph.D. student from [City University of Hong Kong](https://www.cityu.edu.hk
 
 
 ## News
-
-- **[Dec. 2023]** One paper is accepted to TIP.
+- **[Aug. 2024]** We present **OpenScan**, a new benchmark for generalized open-vocabulary 3D scene understanding.
+- **[Dec. 2023]** One paper is accepted to **TIP**.
 
 
 
