@@ -9,7 +9,7 @@ main:
     image: ./assets/img/fpg_framework.png
     
   - title: OpenScan: A Benchmark for Generalized Open-Vocabulary 3D Scene Understanding
-    authors: <strong>Youjun Zhao</strong>, Jiaying Lin, Shuquan Ye, Qianshi Pang, Rynson W.H. Lau
+    authors: Youjun Zhao, Jiaying Lin, Shuquan Ye, Qianshi Pang, Rynson W.H. Lau
     conference_short: TIP
     conference: IEEE Transactions on Image Processing <strong>(TIP)</strong>.
     pdf: https://ieeexplore.ieee.org/document/10375342
