@@ -7,3 +7,11 @@ main:
     pdf: https://ieeexplore.ieee.org/document/10375342
     code: https://github.com/sysu19351158/FPB-FOMM
     image: ./assets/img/fpg_framework.png
+    
+  - title: OpenScan
+    authors: Yi Zhang, Xinhua Xu, <strong>Youjun Zhao</strong>, Yuhang Wen, Zixuan Tang, Mengyuan Liu
+    conference_short: TIP
+    conference: IEEE Transactions on Image Processing <strong>(TIP)</strong>.
+    pdf: https://ieeexplore.ieee.org/document/10375342
+    code: https://github.com/sysu19351158/FPB-FOMM
+    image: ./assets/img/openscan_teasor.png
