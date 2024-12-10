@@ -1,5 +1,13 @@
 main:
 
+  - title: 'Hierarchical Cross-Modal Alignment for Open-Vocabulary 3D Object Detection'
+    authors: <strong>Youjun Zhao</strong>, Jiaying Lin, Rynson W.H. Lau
+    conference_short: AAAI 2025
+    conference: The 39th Annual AAAI Conference on Artificial Intelligence <strong>(AAAI 2025)</strong>.
+    pdf: https://youjunzhao.github.io/
+    code: https://youjunzhao.github.io/
+    image: ./assets/img/hcma.png
+
   - title: 'OpenScan: A Benchmark for Generalized Open-Vocabulary 3D Scene Understanding'
     authors: <strong>Youjun Zhao</strong>, Jiaying Lin, Shuquan Ye, Qianshi Pang, Rynson W.H. Lau
     conference_short: Arxiv
@@ -16,4 +24,4 @@ main:
     conference: IEEE Transactions on Image Processing <strong>(TIP)</strong>.
     pdf: https://ieeexplore.ieee.org/document/10375342
     code: https://github.com/sysu19351158/FPB-FOMM
-    image: ./assets/img/fpg_framework.png
+    image: ./assets/img/zhang2024facial-480.webp
