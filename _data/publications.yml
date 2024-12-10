@@ -10,7 +10,7 @@ main:
 
   - title: 'OpenScan: A Benchmark for Generalized Open-Vocabulary 3D Scene Understanding'
     authors: <strong>Youjun Zhao</strong>, Jiaying Lin, Shuquan Ye, Qianshi Pang, Rynson W.H. Lau
-    conference_short: Arxiv
+    conference_short: Arxiv 2024
     conference: Arxiv 2024
     pdf: https://arxiv.org/abs/2408.11030
     code: https://github.com/YoujunZhao/OpenScan
@@ -20,8 +20,8 @@ main:
     
   - title: Facial Prior Guided Micro-Expression Generation
     authors: Yi Zhang, Xinhua Xu, <strong>Youjun Zhao</strong>, Yuhang Wen, Zixuan Tang, Mengyuan Liu
-    conference_short: TIP
-    conference: IEEE Transactions on Image Processing <strong>(TIP)</strong>.
+    conference_short: TIP 2023
+    conference: IEEE Transactions on Image Processing <strong>(TIP 2023)</strong>.
     pdf: https://ieeexplore.ieee.org/document/10375342
     code: https://github.com/sysu19351158/FPB-FOMM
     image: ./assets/img/zhang2024facial-480.webp
