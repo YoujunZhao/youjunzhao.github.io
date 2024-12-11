@@ -3,7 +3,7 @@ main:
   - title: 'Hierarchical Cross-Modal Alignment for Open-Vocabulary 3D Object Detection'
     authors: <strong>Youjun Zhao</strong>, Jiaying Lin, Rynson W.H. Lau
     conference_short: AAAI 2025
-    conference: The 39th Annual AAAI Conference on Artificial Intelligence \n <strong>(AAAI 2025)</strong>.
+    conference: The 39th Annual AAAI Conference on Artificial Intelligence <strong>(AAAI 2025)</strong>.
     pdf: https://youjunzhao.github.io/
     code: https://youjunzhao.github.io/
     image: ./assets/img/hcma
