@@ -7,7 +7,7 @@ main:
     pdf: https://youjunzhao.github.io/
     project: https://youjunzhao.github.io/HCMA/
     code: https://github.com/YoujunZhao/HCMA
-    image: ./assets/img/hcma
+    image: ./assets/img/toilet.png
 
   - title: 'OpenScan: A Benchmark for Generalized Open-Vocabulary 3D Scene Understanding'
     authors: <strong>Youjun Zhao</strong>, Jiaying Lin, Shuquan Ye, Qianshi Pang, Rynson W.H. Lau
