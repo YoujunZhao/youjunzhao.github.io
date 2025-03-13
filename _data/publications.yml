@@ -18,7 +18,7 @@ main:
     code: https://github.com/YoujunZhao/OpenScan
     data: https://github.com/YoujunZhao/OpenScan?tab=readme-ov-file#benchmark-installation
     zhihu: https://zhuanlan.zhihu.com/p/715993278
-    image: ./assets/img/openscan_teasor_.png
+    image: ./assets/img/openscan_teasor_1.png
     
   - title: Facial Prior Guided Micro-Expression Generation
     authors: Yi Zhang, Xinhua Xu, <strong>Youjun Zhao</strong>, Yuhang Wen, Zixuan Tang, Mengyuan Liu
