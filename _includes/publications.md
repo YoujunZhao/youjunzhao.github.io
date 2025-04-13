@@ -33,6 +33,9 @@
       {% if link.zhihu %} 
       <a href="{{ link.zhihu }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Zhihu(Chinese)</a>
       {% endif %}
+      {% if link.arxiv %} 
+      <a href="{{ link.arxiv }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Arxiv</a>
+      {% endif %}
       {% if link.project %} 
       <a href="{{ link.project }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project</a>
       {% endif %}
