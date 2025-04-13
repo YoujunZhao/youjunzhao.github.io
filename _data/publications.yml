@@ -4,7 +4,8 @@ main:
     authors: <strong>Youjun Zhao</strong>, Jiaying Lin, Rynson W.H. Lau
     conference_short: AAAI 25
     conference: Annual AAAI Conference on Artificial Intelligence   <strong>(AAAI 2025)</strong>.
-    pdf: https://arxiv.org/abs/2503.07593
+    pdf: https://ojs.aaai.org/index.php/AAAI/article/view/33140
+    arxiv: https://arxiv.org/abs/2503.07593
     project: https://youjunzhao.github.io/HCMA/
     code: https://github.com/YoujunZhao/HCMA
     image: ./assets/img/toilet.png
@@ -13,7 +14,7 @@ main:
     authors: <strong>Youjun Zhao</strong>, Jiaying Lin, Shuquan Ye, Qianshi Pang, Rynson W.H. Lau
     conference_short: Arxiv
     conference: Arxiv 2024
-    pdf: https://arxiv.org/abs/2408.11030
+    arxiv: https://arxiv.org/abs/2408.11030
     project: https://youjunzhao.github.io/OpenScan/
     code: https://github.com/YoujunZhao/OpenScan
     data: https://github.com/YoujunZhao/OpenScan?tab=readme-ov-file#benchmark-installation
