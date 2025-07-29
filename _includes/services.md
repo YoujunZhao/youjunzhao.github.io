@@ -8,6 +8,9 @@
 <ul style="margin:0 0 5px;">
   <li>Teaching Assistant,<a href="https://www.cityu.edu.hk/catalogue/ug/current/course/CS4188.htm"><autocolor>Virtual Reality Technologies and Applications(CS4188), Semester A 2023/24, Semester B 2024/25</autocolor></a></li>
 </ul>
+<ul style="margin:0 0 5px;">
+  <li>Teaching Assistant,<a href="https://www.cityu.edu.hk/catalogue/ug/current/course/CS1302.htm"><autocolor>Introduction to Computer Programming(CS1302), Semester B 2023/24</autocolor></a></li>
+</ul>
 
 <!--<h4 style="margin:0 10px 0;">Journal Reviewers</h4>
 
