@@ -1,6 +1,6 @@
 main:
 
-  - title:   <a style="color: rgba(52, 99, 192, 0.92);">'Hierarchical Cross-Modal Alignment for Open-Vocabulary 3D Object Detection'</a>
+  - title:  'Hierarchical Cross-Modal Alignment for Open-Vocabulary 3D Object Detection'
     authors: <strong>Youjun Zhao</strong>, <a href="https://jiaying.link/">Jiaying Lin</a>, <a href="https://www.cs.cityu.edu.hk/~rynson/">Rynson W.H. Lau</a>
     conference_short: AAAI 25
     conference: Annual AAAI Conference on Artificial Intelligence   <strong>(AAAI 2025)</strong>.
