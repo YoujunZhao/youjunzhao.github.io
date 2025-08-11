@@ -1,7 +1,7 @@
 main:
 
   - title: 'Hierarchical Cross-Modal Alignment for Open-Vocabulary 3D Object Detection'
-    authors: <strong>Youjun Zhao</strong>, Jiaying Lin, Rynson W.H. Lau
+    authors: <strong>Youjun Zhao</strong>, <a href="https://jiaying.link/">Jiaying Lin</a>, <a href="https://www.cs.cityu.edu.hk/~rynson/">Rynson W.H. Lau</a>
     conference_short: AAAI 25
     conference: Annual AAAI Conference on Artificial Intelligence   <strong>(AAAI 2025)</strong>.
     pdf: https://ojs.aaai.org/index.php/AAAI/article/view/33140
@@ -11,9 +11,9 @@ main:
     image: ./assets/img/toilet.png
 
   - title: 'OpenScan: A Benchmark for Generalized Open-Vocabulary 3D Scene Understanding'
-    authors: <strong>Youjun Zhao</strong>, Jiaying Lin, Shuquan Ye, Qianshi Pang, Rynson W.H. Lau
+    authors: <strong>Youjun Zhao</strong>, <a href="https://jiaying.link/">Jiaying Lin</a>, <a href="https://shuquanye.com/">Shuquan Ye</a>, <a href="https://qspang.github.io/">Qianshi Pang</a>, <a href="https://www.cs.cityu.edu.hk/~rynson/">Rynson W.H. Lau</a>
     conference_short: Arxiv
-    conference: Arxiv 2024
+    conference: Preprint
     arxiv: https://arxiv.org/abs/2408.11030
     project: https://youjunzhao.github.io/OpenScan/
     code: https://github.com/YoujunZhao/OpenScan
@@ -22,7 +22,7 @@ main:
     image: ./assets/img/openscan_teasor_1.png
     
   - title: Facial Prior Guided Micro-Expression Generation
-    authors: Yi Zhang, Xinhua Xu, <strong>Youjun Zhao</strong>, Yuhang Wen, Zixuan Tang, Mengyuan Liu
+    authors: <a href="https://scholar.google.com/citations?hl=en&user=i5ADwJcAAAAJ">Yi Zhang</a>, <a href="https://scholar.google.com/citations?user=Pn5QchoAAAAJ&hl=en">Xinhua Xu</a>, <strong>Youjun Zhao</strong>, <a href="https://necolizer.github.io/">Yuhang Wen</a>, <a href="https://sysu19351118.github.io/">Zixuan Tang</a>, <a href="https://scholar.google.com/citations?hl=en&user=woX_4AcAAAAJ">Mengyuan Liu</a>
     conference_short: TIP
     conference: IEEE Transactions on Image Processing <strong>(TIP 2023)</strong>.
     pdf: https://ieeexplore.ieee.org/document/10375342
