@@ -1,6 +1,6 @@
 main:
 
-  - title: 'Hierarchical Cross-Modal Alignment for Open-Vocabulary 3D Object Detection'
+  - title:   <a href="https://arxiv.org/abs/2312.04543" style="color: rgba(52, 99, 192, 0.92);">'Hierarchical Cross-Modal Alignment for Open-Vocabulary 3D Object Detection'</a>
     authors: <strong>Youjun Zhao</strong>, <a href="https://jiaying.link/">Jiaying Lin</a>, <a href="https://www.cs.cityu.edu.hk/~rynson/">Rynson W.H. Lau</a>
     conference_short: AAAI 25
     conference: Annual AAAI Conference on Artificial Intelligence   <strong>(AAAI 2025)</strong>.
@@ -15,6 +15,7 @@ main:
     conference_short: Arxiv
     conference: Preprint
     arxiv: https://arxiv.org/abs/2408.11030
+    pdf: https://arxiv.org/abs/2408.11030
     project: https://youjunzhao.github.io/OpenScan/
     code: https://github.com/YoujunZhao/OpenScan
     data: https://github.com/YoujunZhao/OpenScan?tab=readme-ov-file#benchmark-installation
