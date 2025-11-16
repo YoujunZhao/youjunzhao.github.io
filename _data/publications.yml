@@ -1,7 +1,7 @@
 main:
 
   - title: 'OpenScan: A Benchmark for Generalized Open-Vocabulary 3D Scene Understanding'
-    authors: <b>Youjun Zhao</b>, <a href="https://jiaying.link/">Jiaying Lin</a>, <a href="https://shuquanye.com/">Shuquan Ye</a>, <a href="https://qspang.github.io/">Qianshi Pang</a>, <a href="https://www.cs.cityu.edu.hk/~rynson/">Rynson W.H. Lau</a>
+    authors: <b class="publication-authors">Youjun Zhao</b>, <a href="https://jiaying.link/">Jiaying Lin</a>, <a href="https://shuquanye.com/">Shuquan Ye</a>, <a href="https://qspang.github.io/">Qianshi Pang</a>, <a href="https://www.cs.cityu.edu.hk/~rynson/">Rynson W.H. Lau</a>
     conference_short: AAAI 26
     conference: Annual AAAI Conference on Artificial Intelligence   <strong>(AAAI 2026)</strong>.
     arxiv: https://arxiv.org/abs/2408.11030
