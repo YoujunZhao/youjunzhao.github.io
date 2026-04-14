@@ -6,7 +6,7 @@
   <li>Teaching Assistant,<a href="https://www.cityu.edu.hk/catalogue/ug/current/course/CS4185.htm"><autocolor>Multimedia Technologies and Applications(CS4185), Semester A 2024/25, Semester A 2025/26</autocolor></a></li>
 </ul>
 <ul style="margin:0 0 5px;">
-  <li>Teaching Assistant,<a href="https://www.cityu.edu.hk/catalogue/ug/current/course/CS4188.htm"><autocolor>Virtual Reality Technologies and Applications(CS4188), Semester A 2023/24, Semester B 2024/25</autocolor></a></li>
+  <li>Teaching Assistant,<a href="https://www.cityu.edu.hk/catalogue/ug/current/course/CS4188.htm"><autocolor>Virtual Reality Technologies and Applications(CS4188), Semester A 2023/24, Semester B 2024/25, Semester B 2025/26</autocolor></a></li>
 </ul>
 <ul style="margin:0 0 5px;">
   <li>Teaching Assistant,<a href="https://www.cityu.edu.hk/catalogue/ug/current/course/CS1302.htm"><autocolor>Introduction to Computer Programming(CS1302), Semester B 2023/24</autocolor></a></li>
