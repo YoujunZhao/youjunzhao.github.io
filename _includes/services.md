@@ -1,10 +1,6 @@
 ## Services
 
-<h4 style="margin:0 10px 0;">Teaching</h4>
-
-  <p class="service-intro">
-    I serve as an instructor and teaching assistant at CityUHK.
-  </p>
+<h4 style="margin:0 10px 0;">Teaching: I serve as an instructor and teaching assistant at CityUHK.</h4>
 
 <ul style="margin:0 0 5px;">
   <li><a href="https://www.cityu.edu.hk/catalogue/ug/current/course/CS4185.htm"><autocolor>Multimedia Technologies and Applications (CS4185)</autocolor></a></li>
