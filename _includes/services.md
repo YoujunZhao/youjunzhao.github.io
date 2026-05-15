@@ -2,14 +2,22 @@
 
 <h4 style="margin:0 10px 0;">Teaching</h4>
 
+I serve as a teacher and teaching assistant at CityUHK.
+
 <ul style="margin:0 0 5px;">
-  <li>Teaching Assistant,<a href="https://www.cityu.edu.hk/catalogue/ug/current/course/CS4185.htm"><autocolor>Multimedia Technologies and Applications(CS4185), Semester A 2024/25, Semester A 2025/26</autocolor></a></li>
+  <li><a href="https://www.cityu.edu.hk/catalogue/ug/current/course/CS4185.htm"><autocolor>Multimedia Technologies and Applications (CS4185)</autocolor></a></li>
+
+  Semester A 2024/25, Semester A 2025/26
 </ul>
 <ul style="margin:0 0 5px;">
-  <li>Teaching Assistant,<a href="https://www.cityu.edu.hk/catalogue/ug/current/course/CS4188.htm"><autocolor>Virtual Reality Technologies and Applications(CS4188 / CS5188), Semester A 2023/24, Semester B 2024/25, Semester B 2025/26</autocolor></a></li>
+  <li><a href="https://www.cityu.edu.hk/catalogue/ug/current/course/CS4188.htm"><autocolor>Virtual Reality Technologies and Applications (CS4188 / CS5188)</autocolor></a></li>
+
+  Semester A 2023/24, Semester B 2024/25, Semester B 2025/26
 </ul>
 <ul style="margin:0 0 5px;">
-  <li>Teaching Assistant,<a href="https://www.cityu.edu.hk/catalogue/ug/current/course/CS1302.htm"><autocolor>Introduction to Computer Programming(CS1302), Semester B 2023/24</autocolor></a></li>
+  <li><a href="https://www.cityu.edu.hk/catalogue/ug/current/course/CS1302.htm"><autocolor>Introduction to Computer Programming (CS1302)</autocolor></a></li>
+
+  Semester B 2023/24
 </ul>
 
 <!--<h4 style="margin:0 10px 0;">Journal Reviewers</h4>
