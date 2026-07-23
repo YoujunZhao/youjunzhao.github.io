@@ -5,7 +5,7 @@ main:
     conference_short: AAAI 26
     conference: Annual AAAI Conference on Artificial Intelligence   <strong>(AAAI 2026)</strong>.
     arxiv: https://arxiv.org/abs/2408.11030
-    pdf: https://arxiv.org/abs/2408.11030
+    pdf: https://ojs.aaai.org/index.php/AAAI/article/view/38331
     project: https://youjunzhao.github.io/OpenScan/
     code: https://github.com/YoujunZhao/OpenScan
     data: https://github.com/YoujunZhao/OpenScan?tab=readme-ov-file#benchmark-installation
