@@ -9,7 +9,6 @@ I'm a Ph.D. candidate from [City University of Hong Kong](https://www.cityu.edu.
 ## News
 - **[Nov. 2025]** One paper is accepted to **AAAI 2026**.
 - **[Dec. 2024]** One paper is accepted to **AAAI 2025**.
-- **[Dec. 2023]** One paper is accepted to **TIP**.
 
 
 
