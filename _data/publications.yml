@@ -1,7 +1,15 @@
 main:
 
+  - title: 'MirrorWorld: Taming Video Diffusion Models for Mirror Reflection Generation'
+    authors: <b class="publication-authors">Youjun Zhao</b>, <a>Alex Warren</a>, <a>Gary K.L. Tam</a>, <a href="https://www.cs.cityu.edu.hk/~rynson/">Rynson W.H. Lau</a>
+    conference_short: Arxiv
+    conference: ArXiv Preprint, 2608.07463
+    arxiv: https://arxiv.org/abs/2608.07463
+    project: https://youjunzhao.github.io/MirrorWorld/
+    image: ./assets/img/mirrorworld.gif
+
   - title: 'World-Shaper: A Unified Framework for 360° Panoramic Editing'
-    authors: <a>Dong Liang</a>, <a href="https://shuquanye.com/">Yuhao Liu</a>, <a href="https://qspang.github.io/">Jinyuan Jia</a>, <b class="publication-authors">Youjun Zhao</b>, <a href="https://www.cs.cityu.edu.hk/~rynson/">Rynson W.H. Lau</a>
+    authors: <a>Dong Liang</a>, <a>Yuhao Liu</a>, <a>Jinyuan Jia</a>, <b class="publication-authors">Youjun Zhao</b>, <a href="https://www.cs.cityu.edu.hk/~rynson/">Rynson W.H. Lau</a>
     conference_short: ICML 26
     conference: International Conference on Machine Learning   <strong>(ICML 2026)</strong>.
     arxiv: https://arxiv.org/abs/2602.00265
