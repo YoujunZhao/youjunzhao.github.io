@@ -16,6 +16,7 @@ main:
     pdf: https://openreview.net/pdf?id=FXy0GCaHq1
     project: https://world-shaper-project.github.io/
     image: ./assets/img/worldshaper.png
+    image_fit: contain
 
   - title: 'OpenScan: A Benchmark for Generalized Open-Vocabulary 3D Scene Understanding'
     authors: <b class="publication-authors">Youjun Zhao</b>, <a href="https://jiaying.link/">Jiaying Lin</a>, <a href="https://shuquanye.com/">Shuquan Ye</a>, <a href="https://qspang.github.io/">Qianshi Pang</a>, <a href="https://www.cs.cityu.edu.hk/~rynson/">Rynson W.H. Lau</a>
