@@ -15,7 +15,7 @@ main:
     arxiv: https://arxiv.org/abs/2602.00265
     pdf: https://openreview.net/pdf?id=FXy0GCaHq1
     project: https://world-shaper-project.github.io/
-    image: ./assets/img/worldshaper.png
+    image: ./assets/img/worldshaper.png?v=20260902
     image_fit: contain
 
   - title: 'OpenScan: A Benchmark for Generalized Open-Vocabulary 3D Scene Understanding'
